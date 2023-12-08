@@ -4,8 +4,8 @@
 
 Hello!  
 My name is Yaroslav(bv345u) and now I'm studying at the Peter the Great Polytechnic University   
-I'm currently trying to learn the Python programming language from scratch
-
+I'm currently trying to learn the Python programming language from scratch  
+I'm sleeping well, I'm living well, so far
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF00000&lines=Beautiful+text+and+ext)](https://git.io/typing-svg)  
 
 
