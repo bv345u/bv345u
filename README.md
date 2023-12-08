@@ -3,8 +3,8 @@
 <h3 align="center">Student life</h3>
 
 Hello!  
-My name is Yaroslav(bv345u) and now I am studying at the Peter the Great Polytechnic University   
-I'm currently trying to learn the Python programming language  
+My name is Yaroslav(bv345u) and now I'm studying at the Peter the Great Polytechnic University   
+I'm currently trying to learn the Python programming language from scratch
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF00000&lines=Beautiful+text+and+ext)](https://git.io/typing-svg)  
 
